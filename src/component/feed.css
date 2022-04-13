@@ -1,0 +1,40 @@
+.feed{
+    width: 100%;
+    position: relative;
+    top: 120px;
+    background-color: white;
+    border-radius: 5px;
+}
+.f_c1{
+    width: 100%;
+    /* border: 1px solid black; */
+    
+}
+.f_c1 input{
+    width: 99%;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid grey;
+    border-radius: 5px 5px 0 0;
+}
+.f_c1_c1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.f_c1_c1_c1{
+    display: flex;
+}
+.f_c1_c1_c1 div{
+    padding: 20px;
+}
+.f_c1_c1_c1 div span{
+    vertical-align: top;
+}
+.sendIcon{
+    padding: 20px;
+}
+.f_c3{
+    background-color: #f7f6f9;
+    
+}

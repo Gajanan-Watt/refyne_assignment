@@ -1,0 +1,38 @@
+.nav{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    height: 60px;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    top: 0px;
+    width: 100%;
+    color: #474d52;
+}
+.nav_child1{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+#input-with-icon-textfield{
+    width: 150px;
+    padding: 20px;
+}
+.nav_child2 {
+    display: flex;
+    width: 700px;
+    justify-content: space-evenly;
+}
+.nav_child2 div{
+    display: flex;
+    padding: 20px;
+}
+.nav_child2 div:hover{
+    color: skyblue;
+}
+.nav_child3 img{
+    width: 50px;
+    padding: 5px;
+    border-radius: 50%;
+}

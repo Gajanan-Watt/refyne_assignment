@@ -1,0 +1,36 @@
+.post{
+    width: 93%;
+    padding: 20px;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+}
+.post_nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    line-height: 4px;
+}
+.post_nav_c1 img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+}
+.post_nav_c1{
+    display: flex;
+    /* justify-content: ; */
+}
+.post_img{
+    width: 500px;
+}
+.post_foo{
+    display: flex;
+    justify-content: space-around;
+}
+.post_foo div span{
+    vertical-align: top;
+}
+.post_mid{
+    background-color: #f7f6f9;
+}
+

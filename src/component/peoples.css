@@ -1,0 +1,12 @@
+.people{
+    display: flex;
+    justify-content: space-between;
+    line-height: 4px;
+    padding: 5px;
+    vertical-align: top;
+    background-color: white;
+}
+.people img{
+    width: 60px;
+    border-radius: 50%;
+}

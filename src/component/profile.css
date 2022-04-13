@@ -1,0 +1,35 @@
+.profile{
+    width: 100%;
+    /* border: 1px solid black; */
+    position: relative;
+    top: 120px;
+    background-color: white;
+    height: 480px;
+    border-radius: 5px;
+}
+.profile_child1{
+    line-height: 5px;
+    padding: 15px;
+}
+.profile_child1 img{
+    width: 40%;
+    border-radius: 50%;
+}
+.profile_child2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    line-height: 8px;
+    padding: 20px;
+}
+.profile_child2 div{
+    border: 1px solid black;
+}
+.profile_child3{
+    margin: auto;
+    width: 70%;
+    height: 30px;
+    background-color: #f0f8fe;
+    padding: 15px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+}
