@@ -15,6 +15,11 @@
     width: 300px;
     justify-content: space-between;
 }
+.nav_child1 >img{
+    width: 30px;
+    height: 30px;
+    padding: 13px;
+}
 #input-with-icon-textfield{
     width: 150px;
     padding: 19px;
