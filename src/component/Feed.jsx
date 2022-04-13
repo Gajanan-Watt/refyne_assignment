@@ -12,7 +12,6 @@ export const Feed = () => {
 
   useEffect(() => {
     getData();
-    // setLoadMore(false);
   }, [loadMore]);
 
   useEffect(() => {

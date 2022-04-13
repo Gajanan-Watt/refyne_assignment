@@ -1,10 +1,8 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Navbar } from "./component/Navbar";
 import { Profile } from "./component/Profile";
 import { Feed } from "./component/Feed";
 import { Connection } from "./component/Connections";
-import { useState } from "react";
 
 function App() {
   return (

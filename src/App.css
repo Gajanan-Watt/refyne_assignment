@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: #f7f6f9;
+  font-family: 'Roboto', sans-serif;
 }
 .app_child{
   display: grid;
