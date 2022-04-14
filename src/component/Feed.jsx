@@ -22,7 +22,7 @@ export const Feed = () => {
   function handleScroll() {
     if (
       window.innerHeight + document.documentElement.scrollTop >=
-      document.documentElement.offsetHeight
+      document.documentElement.offsetHeight * 0.7
     ) {
       getData();
     }
