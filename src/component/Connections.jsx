@@ -2,7 +2,7 @@ import "./connection.css";
 import { useState } from "react";
 import { Peoples } from "./Peoples";
 export const Connection = () => {
-  const array = [1, 2, 3, 4];
+  const array = [1, 2, 3, 4, 5];
 
   return (
     <>
